@@ -37,4 +37,18 @@ public class GitTest {
 	public void TC009() {
 		
 	}
+	
+	public void TC010() {
+		
+	}
+	
+	public void TC011() {
+		
+	}
+	
+	public void TC012() {
+		
+	}
+	
+	
 }
