@@ -13,5 +13,17 @@ public class GitTest {
 	public void TC003() {
 		
 	}
+	
+	public void TC004() {
+		
+	}
+	
+	public void TC005() {
+		
+	}
+	
+	public void TC006() {
+		
+	}
 
 }
